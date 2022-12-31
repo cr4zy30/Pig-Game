@@ -7,7 +7,7 @@ A player loses all their gained points if they role a 1. First to reach 100 poin
 
 ### Website 
 
-**Click here:** [Pig-Game](https://denis-voronov-pig-game.netlify.app/)
+**Live website:** [Pig-Game](https://denis-voronov-pig-game.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/112426363/210155319-458c296d-cf30-45a6-9e97-9598cbb8503c.png)
 
