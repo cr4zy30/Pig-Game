@@ -1,9 +1,11 @@
 # Pig-Game
 
-Live website: https://denis-voronov-pig-game.netlify.app/
+### Description
 
 This is a simple dice game which involves 2 players. They take turns to roll a single die as many times as they want, adding the roll results to a total.
 A player loses all their gained points if they role a 1. First to reach 100 points wins. 
+
+[Live website](https://denis-voronov-pig-game.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/112426363/210155319-458c296d-cf30-45a6-9e97-9598cbb8503c.png)
 
